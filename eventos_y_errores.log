@@ -1,0 +1,53 @@
+2026-10-28 16:13:32,908 - INFO - Reserva exitosa para Brayan Gallego por Sala VIP.
+2026-10-28 16:13:34,183 - ERROR - Error lógico al confirmar: No se puede confirmar una reserva cancelada.
+2026-10-28 16:34:42,650 - ERROR - Operación 2 fallida: El correo 'correo-sin-arroba' no es válido.
+2026-10-28 16:34:44,172 - INFO - Reserva exitosa para Brayan Gallego.
+2026-10-28 16:34:44,258 - ERROR - Error de valor: Duración inválida.
+2026-10-28 16:34:44,664 - ERROR - Error lógico: No se puede confirmar una reserva cancelada.
+2026-10-28 16:34:46,297 - ERROR - Operación 10 fallida: La identificación debe tener al menos 5 caracteres.
+2026-10-28 20:44:50,796 - ERROR - Operacion 2 fallida: El correo 'correo-sin-arroba' no es valido.
+2026-10-28 20:44:51,561 - INFO - Reserva exitosa para Brayan Gallego.
+2026-10-28 20:44:51,579 - ERROR - Error de valor: Duracion invalida.
+2026-10-28 20:44:51,612 - ERROR - Error logico: No se puede confirmar una reserva cancelada.
+2026-10-28 20:44:52,381 - ERROR - Operacion 10 fallida: La identificacion debe tener al menos 5 caracteres.
+2026-10-28 20:49:03,525 - ERROR - Operacion 2 fallida: El correo 'correo-sin-arroba' no es valido.
+2026-10-28 20:49:03,570 - INFO - Reserva exitosa para Brayan Gallego.
+2026-10-28 20:49:03,587 - ERROR - Error de valor: Duracion invalida.
+2026-10-28 20:49:03,592 - ERROR - Error logico: No se puede confirmar una reserva cancelada.
+2026-10-28 20:49:03,763 - ERROR - Operacion 10 fallida: La identificacion debe tener al menos 5 caracteres.
+2026-10-31 12:50:28,054 - INFO - Operacion 1 exitosa.
+2026-10-31 12:50:28,311 - ERROR - Operacion 2 fallida: El correo 'correo-sin-arroba' no es valido.
+2026-10-31 12:50:28,445 - INFO - Servicio creado: Sala 'Sala VIP'.
+2026-10-31 12:50:28,704 - INFO - Servicio creado: Equipo 'Proyector'.
+2026-10-31 12:50:29,464 - INFO - Servicio creado: Asesoria 'Clase Python'.
+2026-10-31 12:50:31,209 - INFO - Reserva exitosa para Brayan Gallego.
+2026-10-31 12:50:31,713 - ERROR - Error de valor: Duracion invalida.
+2026-10-31 12:50:32,033 - ERROR - Error en reserva: El servicio solicitado no esta disponible.
+2026-10-31 12:50:32,214 - ERROR - Error en reserva: No se puede confirmar una reserva cancelada.
+2026-10-31 12:50:32,558 - INFO - Operacion 8 exitosa.
+2026-10-31 12:50:32,712 - ERROR - Operacion 9 fallida: La identificacion debe tener al menos 5 caracteres.
+2026-10-31 12:50:32,782 - INFO - Operacion 10: Fin.
+2026-10-31 12:52:05,608 - INFO - Operacion 1 exitosa.
+2026-10-31 12:52:06,387 - ERROR - Operacion 2 fallida: El correo 'correo-sin-arroba' no es valido.
+2026-10-31 12:52:07,012 - INFO - Servicio creado: Sala 'Sala VIP'.
+2026-10-31 12:52:07,031 - INFO - Servicio creado: Equipo 'Proyector'.
+2026-10-31 12:52:07,062 - INFO - Servicio creado: Asesoria 'Clase Python'.
+2026-10-31 12:52:08,793 - INFO - Reserva exitosa para Brayan Gallego.
+2026-10-31 12:52:09,506 - ERROR - Error de valor: Duracion invalida.
+2026-10-31 12:52:10,614 - ERROR - Error en reserva: El servicio solicitado no esta disponible.
+2026-10-31 12:52:11,763 - ERROR - Error en reserva: No se puede confirmar una reserva cancelada.
+2026-10-31 12:52:12,256 - INFO - Operacion 8 exitosa.
+2026-10-31 12:52:12,498 - ERROR - Operacion 9 fallida: La identificacion debe tener al menos 5 caracteres.
+2026-10-31 12:52:12,636 - INFO - Operacion 10: Fin.
+2026-10-31 13:02:51,441 - INFO - Operacion 1 exitosa.
+2026-10-31 13:02:51,446 - ERROR - Operacion 2 fallida: El correo 'correo-sin-arroba' no es valido.
+2026-10-31 13:02:51,449 - INFO - Servicio creado: Sala 'Sala VIP'.
+2026-10-31 13:02:51,450 - INFO - Servicio creado: Equipo 'Proyector'.
+2026-10-31 13:02:51,452 - INFO - Servicio creado: Asesoria 'Clase Python'.
+2026-10-31 13:02:51,477 - INFO - Reserva exitosa para Brayan Gallego.
+2026-10-31 13:02:51,480 - ERROR - Error de valor: Duracion invalida.
+2026-10-31 13:02:51,482 - ERROR - Error en reserva: El servicio solicitado no esta disponible.
+2026-10-31 13:02:51,499 - ERROR - Error en reserva: No se puede confirmar una reserva cancelada.
+2026-10-31 13:02:51,523 - INFO - Operacion 8 exitosa.
+2026-10-31 13:02:51,538 - ERROR - Operacion 9 fallida: La identificacion debe tener al menos 5 caracteres.
+2026-10-31 13:02:51,548 - INFO - Operacion 10: Fin.
